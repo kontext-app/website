@@ -4,6 +4,7 @@ import './styles/tailwind.css';
 import './styles/landingpage.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './utils/i18n';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
