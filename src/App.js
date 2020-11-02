@@ -30,19 +30,19 @@ const items=[
       {
         id: 0,
         featureHead: "Self-sovereign identity",
-        featureSub: "Import your history of likes, ratings, comments and save new bookmarks.",
+        featureSub: "Save your history of likes, ratings, comments from Twitterm Google, Amazon, etc.",
         featureImage: webapp1
       },
       {
         id: 1,
         featureHead: "Content discovery",
-        featureSub: "Share your favorites safely, and discover new content.",
+        featureSub: "Share your favorites with friends, and discover new content, movies or restaurants.",
         featureImage: webapp2
       },
       {
         id: 2,
         featureHead: "Social context",
-        featureSub: "See what your followers like, and find people with similar tastes.",
+        featureSub: "See what your followers like, and coonect with people with similar tastes.",
         featureImage: webapp3
       }
     ]
